@@ -1,5 +1,6 @@
 # Introduction
-Tic-Tac-Toe game
+Tic-Tac-Toe game  
+live link: https://avshalom-mogos.github.io/Tic-Tac-Toe-js/
 
 ## Technologies
 - HTML
