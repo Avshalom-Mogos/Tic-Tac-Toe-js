@@ -11,10 +11,8 @@ live link: https://avshalom-mogos.github.io/Tic-Tac-Toe-js/
 
 ## How to use?
 - Choose a spot using index numbers
-- place three connecting marks in a horizontal, vertical, or diagonal row to win!
+- Place three connecting marks in a horizontal, vertical, or diagonal row to win!
 
 ## Functionalities
-- choose your name.
+- Choose your name.
 - Choose a spot.
-
-
