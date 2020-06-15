@@ -7,7 +7,7 @@ live link: https://avshalom-mogos.github.io/Tic-Tac-Toe-js/
 - JavaScript
 
 ## Illustration
-<img src="https://raw.githubusercontent.com/Avshalom-Mogos/Tic-Tac-Toe-js/master/readmeIMG.JPG" width="500"/>
+<img src="https://raw.githubusercontent.com/Avshalom-Mogos/portfolio/master/src/assests/GIFs/ticTacToe.gif"/>
 
 ## How to use?
 - Choose a spot using index numbers
